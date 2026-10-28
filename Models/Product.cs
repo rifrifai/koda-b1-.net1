@@ -1,13 +1,27 @@
 
 namespace ConsoleApp.Models;
-public class Product(string name, decimal price, string desc)
+public class Product
 {
-    private string Name { get; set; } = name;
-    private decimal Price { get; set; } = price;
-    private string Desc { get; set; } = desc;
+	private readonly string Name = string.Empty;
+    private decimal Price { get; set; }
+	private string? Desc { get; set; }
+	public Product(string name, decimal price, string desc)
+	{
+		if(string.IsNullOrWhiteSpace(name))
+		{
+			throw new ArgumentException("Name is required!");
+		}
+		if(price <= 0)
+		{
+			throw new ArgumentException("Price must be greater than 0");
+		}
+		Name = name;
+		Price = price;
+		Desc = desc;
+	}
 
-    public override string ToString()
-    {
-        return $"Product: {Name} - Harga: {Price} - Desc: {Desc}";
-    }
+	public override string ToString()
+	{
+		return $"Product: {Name} \nHarga: {Price} \nDesc: {Desc}";
+	}
 }
