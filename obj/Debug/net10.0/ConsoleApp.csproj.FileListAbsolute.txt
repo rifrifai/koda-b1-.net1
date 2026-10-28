@@ -1,0 +1,14 @@
+/mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/bin/Debug/net10.0/ConsoleApp
+/mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/bin/Debug/net10.0/ConsoleApp.deps.json
+/mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/bin/Debug/net10.0/ConsoleApp.runtimeconfig.json
+/mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/bin/Debug/net10.0/ConsoleApp.dll
+/mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/bin/Debug/net10.0/ConsoleApp.pdb
+/mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/obj/Debug/net10.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfoInputs.cache
+/mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfo.cs
+/mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/obj/Debug/net10.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/obj/Debug/net10.0/ConsoleApp.dll
+/mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/obj/Debug/net10.0/refint/ConsoleApp.dll
+/mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/obj/Debug/net10.0/ConsoleApp.pdb
+/mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/obj/Debug/net10.0/ConsoleApp.genruntimeconfig.cache
+/mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/obj/Debug/net10.0/ref/ConsoleApp.dll
