@@ -7,8 +7,8 @@ public class Program
 		Console.WriteLine("==========================");
 		Console.WriteLine("     KODA BANKING APP     ");
 		Console.WriteLine("==========================");
-		
-		Account acc1 = new("AC001", "Budi", 10.000);
+
+		Account acc1 = new("AC001", "Budi", 10_000);
 		Console.WriteLine(acc1);
 	}
 }

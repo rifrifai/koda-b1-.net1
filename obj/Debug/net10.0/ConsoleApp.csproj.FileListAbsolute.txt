@@ -12,3 +12,4 @@
 /mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/obj/Debug/net10.0/ConsoleApp.pdb
 /mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/obj/Debug/net10.0/ConsoleApp.genruntimeconfig.cache
 /mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/obj/Debug/net10.0/ref/ConsoleApp.dll
+/mnt/569E67D79E67AE65/koda/day15/banking/ConsoleApp/obj/Debug/net10.0/ConsoleApp.sourcelink.json
